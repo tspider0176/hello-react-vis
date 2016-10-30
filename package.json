@@ -17,6 +17,7 @@
     "pug-html-loader": "^1.0.9",
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
+    "react-vis": "^0.6.4",
     "sanitize.css": "^4.1.0",
     "style-loader": "^0.13.1",
     "ts-jest": "^0.1.8",
